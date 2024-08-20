@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ramsha. 
-- 👀 I’m interested in developing and Machine Learning
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on any development related projects. I'm specialized in java, python, Ionic and web projects.
+- 👀 I’m a Software Engineer and an Entrepreneur.
+- 🌱 I’m currently working with React and building side projects.
 - 📫 You can email me at kramsha1998@gmail.com 
 
 <!---
